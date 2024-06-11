@@ -1,0 +1,31 @@
+/* Generic Styles for all html files */
+
+* {
+    font-family: serif, sans-serif, Tahoma, 'Times New Roman';
+}
+
+h1,
+h3,
+.para-txt {
+    text-align: center;
+}
+
+
+img {
+
+}
+
+.headline{
+    background-color: bisque;
+    border-radius: 20px;
+    text-align: center;
+}
+
+ul,
+ol {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
